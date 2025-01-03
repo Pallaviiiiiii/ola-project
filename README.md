@@ -6,12 +6,12 @@
 
 #steps Involved:
 
-1: Download file from Kaggle Dataset
-2: Cleaned Data using Excel
-3: Download Powerbi Desktop to perform Data Analysis
-4: Connect Powerbi with Excel database
-5: Save the file as (.pbix)
-6: Publish the dashboard into powerbi cloud
+1. Download file from Kaggle Dataset
+2. Cleaned Data using Excel
+3. Download Powerbi Desktop to perform Data Analysis
+4. Connect Powerbi with Excel database
+5. Save the file as (.pbix)
+6. Publish the dashboard into powerbi cloud
 
 #Problem Statements
 1.	Retrieve all successful bookings:
