@@ -13,15 +13,6 @@
 5. Save the file as (.pbix)
 6. Publish the dashboard into powerbi cloud
 
-![ola 1](https://github.com/user-attachments/assets/42718cbf-22b2-4d60-8d57-962bf380c48d)
-
-![ola2](https://github.com/user-attachments/assets/cf0d8c5c-1c95-492a-8178-c0d7d48ffa32)
-
-![ola3](https://github.com/user-attachments/assets/e6a0ca1f-1476-4a2a-be72-9b9397cae6ba)
-
-![ola 4](https://github.com/user-attachments/assets/b60d8fc5-4191-4a10-933f-17bca6252708)
-
-
 #Problem Statements
 1.	Retrieve all successful bookings:
 2.	Find the average ride distance for each vehicle type:
@@ -33,3 +24,14 @@
 8.	Find the average customer rating per vehicle type:
 9.	Calculate the total booking value of rides completed successfully:
 10.	List all incomplete rides along with the reason:
+
+
+![ola 1](https://github.com/user-attachments/assets/42718cbf-22b2-4d60-8d57-962bf380c48d)
+
+![ola2](https://github.com/user-attachments/assets/cf0d8c5c-1c95-492a-8178-c0d7d48ffa32)
+
+![ola3](https://github.com/user-attachments/assets/e6a0ca1f-1476-4a2a-be72-9b9397cae6ba)
+
+![ola 4](https://github.com/user-attachments/assets/b60d8fc5-4191-4a10-933f-17bca6252708)
+
+
